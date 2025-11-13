@@ -1,66 +1,66 @@
-🌟 Hi, I'm Saniya Nadaf!
-BCA Student | Full-Stack Developer | AI & NLP Enthusiast | Problem Solver
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=30&center=true&vCenter=true&width=900&lines=Hello+I'm+Saniya+Nadaf+✨;Full-Stack+Developer+%7C+AI+%26+NLP+Enthusiast;Building+Smart+Apps+with+Code+%26+Creativity+🚀"></div>
+<div align="center">
 
-I am a passionate developer who enjoys building meaningful, real-world applications using modern technologies. My primary focus is on creating efficient, scalable, and user-friendly solutions through full-stack development and intelligent systems.
+</div>
+<div align="center">🌌 About Me</div>
 
-I love working with JavaScript, Python, Java, and modern frameworks like React, Node.js, Flask, and Streamlit. Alongside full-stack development, I’m also deeply interested in Machine Learning, NLP, and AI-driven applications.
+I’m a Full-Stack Developer, AI/ML enthusiast, and passionate explorer of NLP.
+I love turning ideas into smart, functional applications using modern technologies like React, Node.js, Python, Machine Learning, and Deep Learning tools.
 
-I believe in continuously improving, learning new technologies, and building projects that help people and make an impact.
+I believe in writing clean, scalable code, staying consistent, exploring new technologies, and building impactful digital solutions.
 
-🚀 My Skills
-Programming Languages
-<div> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css" /> </div>
-Frameworks & Libraries
-<div> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" /> </div>
-AI / ML
+<div align="center">🎨 💻 Tech Universe</div>
+🚀 Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css&theme=dark" height="80"/> </div>
+⚡ Frameworks & Libraries
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" height="80"/> </div>
+🧠 AI / ML
 
 Machine Learning
 
-Natural Language Processing (NLP)
+NLP (Natural Language Processing)
 
-Deep Learning basics
+Model training & deployment with Flask/Streamlit
 
-Model integration in full-stack applications
+🗄️ Databases
+<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="80"/> </div>
+🔧 Tools & Platforms
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" height="80"/> </div>
+<div align="center">🌈 GitHub Analytics</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyanadaf23&theme=neon-dark&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=saniyanadaf23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanadaf23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00ff" height="165" /> </div>
+<div align="center">🚀 💡 Featured Projects</div>
+🍽️ SmartDine – Restaurant Management System
 
-Databases
-<div> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </div>
-Tools & Platforms
-<div> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saniyanadaf23&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanadaf23&layout=compact&theme=tokyonight" height="165" /> </div>
-🧩 Featured Projects
-🍽️ SmartDine – Full-Stack Restaurant Management System
-
-A complete platform for table reservation, menu control, and admin management using:
-React, Node.js, Express, MongoDB
+Full-stack system with reservations, menu control & admin dashboard.
+🔧 Tech: React, Node.js, Express, MongoDB
 
 🧠 LexiAI – Multilingual NLP Intelligence Platform
 
-An advanced NLP application supporting multiple Indian languages using:
-Stanza, Streamlit, LanguageTool, Speech Recognition
+Smart NLP & grammar analysis supporting multiple Indian languages.
+🔧 Tech: Python, Streamlit, Stanza, NLP
 
-🎯 YOLO Object Detection App
+🎯 YOLO Object Detection
 
-Real-time object detection using:
-YOLOv11, Flask, OpenCV
+Real-time object detection with live video & Flask backend.
+🔧 Tech: YOLOv11, OpenCV, Flask
 
-🌱 Currently Improving
+<div align="center">🌱 Currently Exploring</div>
 
-Machine Learning & NLP
+Neural Networks for NLP
 
-Full-stack + AI integration
+Deep Learning deployment
 
-Advanced React & Node.js
+TypeScript
 
-API Engineering
+Docker & Cloud
 
-Deployment & cloud fundamentals
+AI + Full-stack integrations
 
-📬 Connect With Me
-<div>
+<div align="center">🔗 🤝 Connect With Me</div>
+<div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="55"></a>
 
 </div>

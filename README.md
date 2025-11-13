@@ -2,15 +2,18 @@
 <div align="center">
 
 </div>
-<div align="center">🌌 About Me</div>
 
-I’m a Full-Stack Developer, AI/ML enthusiast, and passionate explorer of NLP.
-I love turning ideas into smart, functional applications using modern technologies like React, Node.js, Python, Machine Learning, and Deep Learning tools.
 
-I believe in writing clean, scalable code, staying consistent, exploring new technologies, and building impactful digital solutions.
+BCA Student | Full-Stack Developer | ML/NLP Enthusiast | Tech Explorer 🚀
 
+My goal with coding is to build meaningful projects that help people and solve real-world problems. I love learning new technologies, improving my skills every day, and working on creative ideas that challenge my logic and imagination.
+
+I'm currently exploring NLP, React, Node.js, Machine Learning, and Full-Stack Development while working on projects like SmartDine and LexiAI Multilingual NLP Platform.
+
+I believe in writing clean, scalable code and constantly improving through feedback and practice. ✨
+Let’s build something amazing together!
 <div align="center">🎨 💻 Tech Universe</div>
-🚀 Languages
+⚡Languages
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css&theme=dark" height="80"/> </div>
 ⚡ Frameworks & Libraries
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" height="80"/> </div>

@@ -2,8 +2,6 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=30&center=true&vCenter=true&width=900&lines=Hello+I'm+Saniya+Nadaf+✨;Full-Stack+Developer+%7C+AI+%26+NLP+Enthusiast;Building+Smart+Apps+with+Code+%26+Creativity+🚀">
 
-![Profile Views](https://komarev.com/ghpvc/?username=saniyanadaf23&color=ff00ff&style=for-the-badge)
-
 </div>
 
 ---
@@ -64,7 +62,7 @@ Let’s build something amazing together!
 
 ---
 
-# 🚀 💡 Featured Projects
+#  💡 Featured Projects
 
 ### 🍽️ **SmartDine – Restaurant Management System**
 Full-stack system with reservations, menu control & admin dashboard.  
@@ -91,7 +89,7 @@ Real-time object detection with live video & Flask backend.
 
 ---
 
-# 🔗 🤝 Connect With Me
+# 🔗  Connect With Me
 <div align="center">
 
 <a href="https://github.com/saniyanadaf23" target="_blank">

@@ -8,7 +8,7 @@
 
 #  About Me
 
-BCA Student | Full-Stack Developer | ML/NLP Enthusiast | Tech Explorer 🚀  
+BCA Student | Full-Stack Developer | ML/NLP Enthusiast | Tech Explorer 
 
 My goal with coding is to build meaningful projects that help people and solve real-world problems.  
 I love learning new technologies, improving my skills every day, and working on creative ideas that challenge my logic and imagination.
@@ -49,7 +49,7 @@ Let’s build something amazing together!
 
 ---
 
-# 🌈 GitHub Analytics
+#  GitHub Analytics
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyanadaf23&theme=neon-dark&hide_border=true" height="180"/>

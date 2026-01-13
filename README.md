@@ -44,23 +44,11 @@ Let’s build something amazing together!
 
 ### 🔧 Tools & Platforms
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" height="80"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="80"/>
 </div>
 
 ---
 
-#  GitHub Analytics
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyanadaf23&theme=neon-dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=saniyanadaf23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanadaf23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00ff" height="165"/>
-
-</div>
-
----
 
 #  💡 Featured Projects
 

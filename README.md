@@ -13,7 +13,7 @@ BCA Student | Full-Stack Developer | ML/NLP Enthusiast | Tech Explorer
 My goal with coding is to build meaningful projects that help people and solve real-world problems.  
 I love learning new technologies, improving my skills every day, and working on creative ideas that challenge my logic and imagination.
 
-I'm currently exploring **NLP, React, Node.js, Machine Learning, and Full-Stack Development** while working on projects like **SmartDine** and **LexiAI Multilingual NLP Platform**.
+I'm currently exploring **NLP, React, Node.js, Machine Learning, IoT, and Full-Stack Development** while working on projects like **SmartDine**, **SmartGrow**, and **LexiAI Multilingual NLP Platform**.
 
 I believe in writing clean, scalable code and constantly improving through feedback and practice. ✨  
 Let’s build something amazing together!
@@ -51,6 +51,12 @@ Let’s build something amazing together!
 
 
 #  💡 Featured Projects
+
+### 🌱 **SmartGrow – IoT Smart Cultivation System**
+Smart agriculture system for real-time crop/environment monitoring and automation using ESP32, sensors, AWS IoT, and a MERN dashboard.  
+🔧 **Tech:** React, Node.js, Express, MongoDB, ESP32, AWS IoT, MQTT  
+
+---
 
 ### 🍽️ **SmartDine – Restaurant Management System**
 Full-stack system with reservations, menu control & admin dashboard.  
